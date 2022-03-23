@@ -47,6 +47,6 @@ app.delete("/clients/:id", function(req, res){
     res.json(clientsFiltered);
 })
 
-app.listen(3000, function(){
+app.listen(process.env.PORT || 3000, function(){
     console.log("servidor rodando");
 })
