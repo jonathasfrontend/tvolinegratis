@@ -2,25 +2,75 @@
     {
         "id": 1,
         "title": "Assistir Cinemax",
-        "link": "https://sinalpublico.com/player3/ch.php?canal=cinemax",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=cinemax&q=bk2",
         "image": "https://multicanais.club/wp-content/uploads/2021/04/cinemax-249x140.jpg"
     },
     {
         "id": 2,
         "title": "Assistir Megapix",
-        "link": "https://sinalpublico.com/player3/ch.php?canal=megapix",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=megapix&q=bk2",
         "image": "https://multicanais.club/wp-content/uploads/2021/04/Megapix-249x140.jpg"
     },
     {
         "id": 3,
         "title": "Assistir Space",
-        "link": "https://sinalpublico.com/player3/ch.php?canal=space",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=space&q=bk2",
         "image": "https://multicanais.club/wp-content/uploads/2021/04/Space-249x140.jpg"
     },
     {
         "id": 4,
         "title": "Assistir FX",
-        "link": "https://sinalpublico.com/player3/ch.php?canal=fx",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=fx&q=bk2",
         "image": "https://multicanais.club/wp-content/uploads/2021/04/fx-249x140.jpg"
+    },
+
+    {
+        "id": 5,
+        "title": "Assistir HBO",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=hbo&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/hbo-249x140.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Assistir HBO 2",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=hbo2&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/hbo2-249x140.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Assistir HBO Famaly",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=hbofamily&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/hbofamily-249x140.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Assistir HBO Mundi",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=hbomundi&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/hbomundi-249x140.jpg"
+    },
+
+    {
+        "id": 9,
+        "title": "Assistir HBO +",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=hboplus&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/hboplus-249x140.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Assistir HBO POP",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=hbopop&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/hbopop-249x140.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Assistir HBO Signature",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=hbosignature&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/hbosignature-249x140.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Assistir HBO Xtreme",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=hboxtreme&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/hboxtreme-249x140.jpg"
     }
 ]
