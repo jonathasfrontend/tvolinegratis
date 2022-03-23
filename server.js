@@ -1,9 +1,10 @@
 const express = require('express');
-const res = require('express/lib/response');
+const cors = require('cors');
 const app = express();
 const data = require('./data.json');
 
 app.use(express.json());
+app.use(cors());
 
 app.get("/clients", function(req, res) {
   res.json(data);
