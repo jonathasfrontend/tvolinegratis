@@ -3,18 +3,24 @@
         "id": 1,
         "title": "Assistir Cinemax",
         "link": "https://sinalpublico.com/player3/ch.php?canal=cinemax",
-        "image": "https://sinalpublico.com/wp-content/uploads/2019/01/cinemax.jpg"
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/cinemax-249x140.jpg"
     },
     {
         "id": 2,
         "title": "Assistir Megapix",
         "link": "https://sinalpublico.com/player3/ch.php?canal=megapix",
-        "image": "https://sinalpublico.com/wp-content/uploads/2019/01/megapix.jpg"
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/Megapix-249x140.jpg"
     },
     {
         "id": 3,
         "title": "Assistir Space",
         "link": "https://sinalpublico.com/player3/ch.php?canal=space",
-        "image": "https://sinalpublico.com/wp-content/uploads/2019/01/space.jpg"
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/Space-249x140.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Assistir FX",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=fx",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/fx-249x140.jpg"
     }
 ]
