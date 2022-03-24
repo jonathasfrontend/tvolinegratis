@@ -18,7 +18,7 @@ app.get("/clients/:id", function(req, res) {
   
     res.json(client);
 });
-app.get("/clients/:id/:title", function(req, res) {
+app.get("/clients/filmesseries", function(req, res) {
     const { id } = req.params;
     const client = data.find(cli => cli.id == id);
   
