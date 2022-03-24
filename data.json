@@ -66,11 +66,71 @@
         "title": "Assistir HBO Signature",
         "link": "https://sinalpublico.com/player3/ch.php?canal=hbosignature&q=bk2",
         "image": "https://multicanais.club/wp-content/uploads/2021/04/hbosignature-249x140.jpg"
-    },
-    {
+    }
+    ,{
         "id": 12,
         "title": "Assistir HBO Xtreme",
         "link": "https://sinalpublico.com/player3/ch.php?canal=hboxtreme&q=bk2",
         "image": "https://multicanais.club/wp-content/uploads/2021/04/hboxtreme-249x140.jpg"
+    }
+    ,{
+        "id": 12,
+        "title": "Assistir Telecine Action",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=telecineaction&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/telecineaction-249x140.jpg"
+    }
+    ,{
+        "id": 13,
+        "title": "Assistir Telecine Cult",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=telecinecult&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/telecinecult-249x140.jpg"
+    }
+    ,{
+        "id": 14,
+        "title": "Assistir Telecine Fun",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=telecinefun&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/telecinefun-249x140.jpg"
+    }
+    ,{
+        "id": 15,
+        "title": "Assistir Telecine Pipoca",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=telecinepipoca&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/telecinepipoca-249x140.jpg"
+    }
+    ,{
+        "id": 16,
+        "title": "Assistir Telecine Premium",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=telecinepremium&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/telecinepremium-249x140.jpg"
+    }
+    ,{
+        "id": 17,
+        "title": "Assistir Telecine Touch",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=telecinetouch&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/telecinetouch-249x140.jpg"
+    }
+    ,{
+        "id": 18,
+        "title": "Assistir TNT",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=tnt&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/tnt-249x140.jpg"
+    }
+    ,{
+        "id": 17,
+        "title": "Assistir TNT Series",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=tntseries&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/tntseries-249x140.jpg"
+    }
+    ,{
+        "id": 17,
+        "title": "Assistir Universal",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=universal&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/universal-249x140.jpg"
+    }
+    ,{
+        "id": 17,
+        "title": "Assistir Paramount",
+        "link": "https://sinalpublico.com/player3/ch.php?canal=paramount&q=bk2",
+        "image": "https://multicanais.club/wp-content/uploads/2021/04/paramount-249x140.jpg"
     }
 ]
