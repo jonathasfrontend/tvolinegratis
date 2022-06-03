@@ -162,10 +162,37 @@
         "desenhosanimados": [
             {
                 "id": 1,
-                "title": "Assistir Paramount",
-                "link": "https://sinalpublico.com/player3/ch.php?canal=paramount",
-                "image": "https://multicanais.club/wp-content/uploads/2021/04/paramount-249x140.jpg",
-                "slug": "assistir-paramount"
+                "title": "Bis",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=bis",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/bis-232x130.jpg"
+            }
+            ,
+            {
+                "id": 2,
+                "title": "Boomerang",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=boomerang",
+                "image": "https://multicanais.club/wp-content/uploads/2021/10/Boomerang-232x130.jpg"
+            }
+            ,
+            {
+                "id": 3,
+                "title": "Cartoon Network",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=cartoon",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/cartoon-232x130.jpg"
+            }
+            ,
+            {
+                "id": 3,
+                "title": "Discovery Kids",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=discoverykids",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/DiscoveryKids-232x130.jpg"
+            }
+            ,
+            {
+                "id": 4,
+                "title": "Disney",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=disney",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/disney-232x130.jpg"
             }
         ],
 
