@@ -248,10 +248,65 @@
         "variedades": [
             {
                 "id": 1,
-                "title": "Assistir Paramount",
-                "link": "https://sinalpublico.com/player3/ch.php?canal=paramount",
-                "image": "https://multicanais.club/wp-content/uploads/2021/04/paramount-249x140.jpg",
-                "slug": "assistir-paramount"
+                "title": "Discovery HomeiHalth",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=discoveryhomeihealth",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/discoveryhomeihealth-232x130.jpg"
+            }
+            ,
+            {
+                "id": 2,
+                "title": "Discovery Theater",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=discoverytheater",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/discoverytheater-232x130.jpg"
+            }
+            ,
+            {
+                "id": 3,
+                "title": "HGTV",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=hgtv",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/hgtv-232x130.jpg"
+            }
+            ,
+            {
+                "id": 4,
+                "title": "NatGeo Wild",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=natgeowild",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/Natgeowild-232x130.jpg"
+            }
+            ,
+            {
+                "id": 5,
+                "title": "Nat Geo",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=natgeo",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/natgeo-232x130.jpg"
+            }
+            ,
+            {
+                "id": 6,
+                "title": "History",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=history",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/history-232x130.jpg"
+            }
+            ,
+            {
+                "id": 7,
+                "title": "SBT",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=sbt",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/sbt-232x130.jpg"
+            }
+            ,
+            {
+                "id": 8,
+                "title": "TV Record",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=record",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/recordsp-232x130.jpg"
+            }
+            ,
+            {
+                "id": 9,
+                "title": "Band",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=band",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/Band-232x130.jpg"
             }
         ]
 
