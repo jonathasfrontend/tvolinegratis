@@ -215,6 +215,34 @@
                 "link": "https://sinalpublico.com/player3/ch.php?canal=gloob",
                 "image": "https://multicanais.club/wp-content/uploads/2021/04/Gloob-232x130.jpg"
             }
+            ,
+            {
+                "id": 9,
+                "title": "Gloobinho",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=gloobinho",
+                "image": "https://multicanais.club/wp-content/uploads/2021/10/gloobinho-1-232x130.jpg"
+            }
+            ,
+            {
+                "id": 10,
+                "title": "NatGeo Kids",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=natgeokids",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/NatGeoKids-232x130.jpg"
+            }
+            ,
+            {
+                "id": 11,
+                "title": "Nick Jr",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=nickjr",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/nickjr-232x130.jpg"
+            }
+            ,
+            {
+                "id": 12,
+                "title": "Nickelodeon",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=nick",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/Nick-232x130.jpg"
+            }
         ],
 
         "variedades": [
