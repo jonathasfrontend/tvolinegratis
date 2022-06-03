@@ -192,7 +192,28 @@
                 "id": 5,
                 "title": "Disney",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=disney",
-                "image": "https://multicanais.club/wp-content/uploads/2021/04/disney-232x130.jpg"
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/Disney-232x130.jpg"
+            }
+            ,
+            {
+                "id": 6,
+                "title": "Disney Junior",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=disneyjunior",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/disneyjunior-232x130.jpg"
+            }
+            ,
+            {
+                "id": 7,
+                "title": "Disney XD",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=disneyxd",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/disneyxd-232x130.jpg"
+            }
+            ,
+            {
+                "id": 8,
+                "title": "Gloob",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=gloob",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/Gloob-232x130.jpg"
             }
         ],
 
