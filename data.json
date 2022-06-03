@@ -167,6 +167,16 @@
                 "image": "https://multicanais.club/wp-content/uploads/2021/04/paramount-249x140.jpg",
                 "slug": "assistir-paramount"
             }
+        ],
+
+        "variedades": [
+            {
+                "id": 1,
+                "title": "Assistir Paramount",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=paramount",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/paramount-249x140.jpg",
+                "slug": "assistir-paramount"
+            }
         ]
 
     }
