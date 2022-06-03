@@ -137,26 +137,37 @@
                 "slug": "assistir-tnt"
             }
             ,{
-                "id": 17,
+                "id": 19,
                 "title": "Assistir TNT Series",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=tntseries",
                 "image": "https://multicanais.club/wp-content/uploads/2021/04/tntseries-249x140.jpg",
                 "slug": "assistir-tntseries"
             }
             ,{
-                "id": 17,
+                "id": 20,
                 "title": "Assistir Universal",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=universal",
                 "image": "https://multicanais.club/wp-content/uploads/2021/04/universal-249x140.jpg",
                 "slug": "assistir-universal"
             }
             ,{
-                "id": 17,
+                "id": 21,
+                "title": "Assistir Paramount",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=paramount",
+                "image": "https://multicanais.club/wp-content/uploads/2021/04/paramount-249x140.jpg",
+                "slug": "assistir-paramount"
+            }
+        ],
+
+        "desenhosanimados": [
+            {
+                "id": 1,
                 "title": "Assistir Paramount",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=paramount",
                 "image": "https://multicanais.club/wp-content/uploads/2021/04/paramount-249x140.jpg",
                 "slug": "assistir-paramount"
             }
         ]
+
     }
 ]
