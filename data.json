@@ -5,28 +5,28 @@
                 "id": 1,
                 "title": "Assistir Cinemax",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=cinemax",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/cinemax-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/cinemax-249x140.webp",
                 "slug": "assistir-cinemax"
             },
             {
                 "id": 2,
                 "title": "Assistir Megapix",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=megapix",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/Megapix-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/Megapix-249x140.webp",
                 "slug":"assistir-megapix"
             },
             {
                 "id": 3,
                 "title": "Assistir Space",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=space",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/Space-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/Space-249x140.webp",
                 "slug": "assistir-space"
             },
             {
                 "id": 4,
                 "title": "Assistir FX",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=fx",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/fx-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/fx-249x140.webp",
                 "slug": "assistir-fx"
             },
         
@@ -34,28 +34,28 @@
                 "id": 5,
                 "title": "Assistir HBO",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbo",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/hbo-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/hbo-249x140.webp",
                 "slug": "assistir-hbo"
             },
             {
                 "id": 6,
                 "title": "Assistir HBO 2",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbo2",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/hbo2-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/hbo2-249x140.webp",
                 "slug": "assistir-hbo2"
             },
             {
                 "id": 7,
                 "title": "Assistir HBO Famaly",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbofamily",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/hbofamily-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/hbofamily-249x140.webp",
                 "slug": "assistir-hbofamily"
             },
             {
                 "id": 8,
                 "title": "Assistir HBO Mundi",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbomundi",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/hbomundi-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/hbomundi-249x140.webp",
                 "slug": "assistir-hbomundi"
             },
         
@@ -63,98 +63,98 @@
                 "id": 9,
                 "title": "Assistir HBO +",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hboplus",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/hboplus-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/hboplus-249x140.webp",
                 "slug": "assistir-hboplus"
             },
             {
                 "id": 10,
                 "title": "Assistir HBO POP",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbopop",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/hbopop-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/hbopop-249x140.webp",
                 "slug": "assistir-hbopop"
             },
             {
                 "id": 11,
                 "title": "Assistir HBO Signature",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbosignature",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/hbosignature-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/hbosignature-249x140.webp",
                 "slug": "assistir-hbosignature"
             }
             ,{
                 "id": 12,
                 "title": "Assistir HBO Xtreme",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hboxtreme",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/hboxtreme-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/hboxtreme-249x140.webp",
                 "slug": "assistir-hboxtreme"
             }
             ,{
                 "id": 12,
                 "title": "Assistir Telecine Action",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecineaction",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/telecineaction-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/telecineaction-249x140.webp",
                 "slug": "assistir-telecineaction"
             }
             ,{
                 "id": 13,
                 "title": "Assistir Telecine Cult",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinecult",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/telecinecult-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/telecinecult-249x140.webp",
                 "slug": "assistir-telecinecult"
             }
             ,{
                 "id": 14,
                 "title": "Assistir Telecine Fun",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinefun",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/telecinefun-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/telecinefun-249x140.webp",
                 "slug": "assistir-telecinefun"
             }
             ,{
                 "id": 15,
                 "title": "Assistir Telecine Pipoca",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinepipoca",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/telecinepipoca-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/telecinepipoca-249x140.webp",
                 "slug": "assistir-telecinepipoca"
             }
             ,{
                 "id": 16,
                 "title": "Assistir Telecine Premium",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinepremium",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/telecinepremium-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/telecinepremium-249x140.webp",
                 "slug": "assistir-telecinepremium"
             }
             ,{
                 "id": 17,
                 "title": "Assistir Telecine Touch",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinetouch",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/telecinetouch-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/telecinetouch-249x140.webp",
                 "slug": "assistir-telecinetouch"
             }
             ,{
                 "id": 18,
                 "title": "Assistir TNT",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=tnt",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/tnt-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/tnt-249x140.webp",
                 "slug": "assistir-tnt"
             }
             ,{
                 "id": 19,
                 "title": "Assistir TNT Series",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=tntseries",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/tntseries-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/tntseries-249x140.webp",
                 "slug": "assistir-tntseries"
             }
             ,{
                 "id": 20,
                 "title": "Assistir Universal",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=universal",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/universal-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/universal-249x140.webp",
                 "slug": "assistir-universal"
             }
             ,{
                 "id": 21,
                 "title": "Assistir Paramount",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=paramount",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/paramount-249x140.webp",
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/paramount-249x140.webp",
                 "slug": "assistir-paramount"
             }
         ],
@@ -164,7 +164,7 @@
                 "id": 1,
                 "title": "Bis",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=bis",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/bis-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/bis-232x130.webp"
             }
             ,
             {
@@ -178,42 +178,42 @@
                 "id": 3,
                 "title": "Cartoon Network",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=cartoon",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/cartoon-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/cartoon-232x130.webp"
             }
             ,
             {
                 "id": 4,
                 "title": "Discovery Kids",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=discoverykids",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/DiscoveryKids-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/DiscoveryKids-232x130.webp"
             }
             ,
             {
                 "id": 5,
                 "title": "Disney",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=disney",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/Disney-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/Disney-232x130.webp"
             }
             ,
             {
                 "id": 6,
                 "title": "Disney Junior",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=disneyjunior",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/disneyjunior-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/disneyjunior-232x130.webp"
             }
             ,
             {
                 "id": 7,
                 "title": "Disney XD",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=disneyxd",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/disneyxd-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/disneyxd-232x130.webp"
             }
             ,
             {
                 "id": 8,
                 "title": "Gloob",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=gloob",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/Gloob-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/Gloob-232x130.webp"
             }
             ,
             {
@@ -227,21 +227,21 @@
                 "id": 10,
                 "title": "NatGeo Kids",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=natgeokids",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/NatGeoKids-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/NatGeoKids-232x130.webp"
             }
             ,
             {
                 "id": 11,
                 "title": "Nick Jr",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=nickjr",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/nickjr-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/nickjr-232x130.webp"
             }
             ,
             {
                 "id": 12,
                 "title": "Nickelodeon",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=nick",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/Nick-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/Nick-232x130.webp"
             }
         ],
 
@@ -250,63 +250,63 @@
                 "id": 1,
                 "title": "Discovery HomeiHalth",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=discoveryhomeihealth",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/discoveryhomeihealth-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/discoveryhomeihealth-232x130.webp"
             }
             ,
             {
                 "id": 2,
                 "title": "Discovery Theater",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=discoverytheater",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/discoverytheater-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/discoverytheater-232x130.webp"
             }
             ,
             {
                 "id": 3,
                 "title": "HGTV",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hgtv",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/hgtv-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/hgtv-232x130.webp"
             }
             ,
             {
                 "id": 4,
                 "title": "NatGeo Wild",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=natgeowild",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/Natgeowild-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/Natgeowild-232x130.webp"
             }
             ,
             {
                 "id": 5,
                 "title": "Nat Geo",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=natgeo",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/natgeo-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/natgeo-232x130.webp"
             }
             ,
             {
                 "id": 6,
                 "title": "History",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=history",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/history-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/history-232x130.webp"
             }
             ,
             {
                 "id": 7,
                 "title": "SBT",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=sbt",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/sbt-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/sbt-232x130.webp"
             }
             ,
             {
                 "id": 8,
                 "title": "TV Record",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=record",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/recordsp-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/recordsp-232x130.webp"
             }
             ,
             {
                 "id": 9,
                 "title": "Band",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=band",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/04/Band-232x130.webp"
+                "image": "https://multicanais.pro/wp-content/uploads/2022/06/Band-232x130.webp"
             }
         ]
 
