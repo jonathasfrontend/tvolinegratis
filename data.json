@@ -164,84 +164,84 @@
                 "id": 1,
                 "title": "Bis",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=bis",
-                "image": "p"
+                "image":""
             }
             ,
             {
                 "id": 2,
                 "title": "Boomerang",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=boomerang",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/10/Boomerang-232x130"
+                "image":""
             }
             ,
             {
                 "id": 3,
                 "title": "Cartoon Network",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=cartoon",
-                "image": ""
+                "image":""
             }
             ,
             {
                 "id": 4,
                 "title": "Discovery Kids",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=discoverykids",
-                "image": "32x130"
+                "image":""
             }
             ,
             {
                 "id": 5,
                 "title": "Disney",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=disney",
-                "image": "webp"
+                "image":""
             }
             ,
             {
                 "id": 6,
                 "title": "Disney Junior",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=disneyjunior",
-                "image": "2x130"
+                "image":""
             }
             ,
             {
                 "id": 7,
                 "title": "Disney XD",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=disneyxd",
-                "image": "0"
+                "image":""
             }
             ,
             {
                 "id": 8,
                 "title": "Gloob",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=gloob",
-                "image": "ebp"
+                "image":""
             }
             ,
             {
                 "id": 9,
                 "title": "Gloobinho",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=gloobinho",
-                "image": "https://multicanais.pro/wp-content/uploads/2021/10/gloobinho-1-232x130"
+                "image":""
             }
             ,
             {
                 "id": 10,
                 "title": "NatGeo Kids",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=natgeokids",
-                "image": "130"
+                "image":""
             }
             ,
             {
                 "id": 11,
                 "title": "Nick Jr",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=nickjr",
-                "image": "webp"
+                "image":""
             }
             ,
             {
                 "id": 12,
                 "title": "Nickelodeon",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=nick",
-                "image": "bp"
+                "image":""
             }
         ],
 
